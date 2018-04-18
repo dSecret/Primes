@@ -8,7 +8,7 @@ python primes1.py
 ```
 
 ### Theory
- Let for all **x** belongs to set of prime numbers the number of prime numbers before that **x** is given by **P(x)**.
-- **P(x)** < **x**.
-- **P(x)** is increasing function.
-- **P'(x)** is decreasing function.
+ Let for all **x** belongs to set of prime numbers the number of prime numbers before that **x** is given by **P(x)** and let a  funtion **y(t)** such that for **y(x)**=**P(x)** for all **t**=**x** .
+- **y(t)** < **t**.
+- **y(t)** is increasing function.
+- **y'(t)** is decreasing function.
